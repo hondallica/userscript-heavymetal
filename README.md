@@ -1,4 +1,4 @@
-# UserScript-Heavymetal
+# UserScript-HeavyMetal
 アクセスしたページにヘビメタとヘビーメタルがあったらヘヴィメタルに変換するGoogle Chrome用UserScript
 
 # インストール
